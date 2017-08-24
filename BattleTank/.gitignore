@@ -73,3 +73,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Asset Content
+Content/StarterContent/*
+Content/Heightmaps/*
+
+
